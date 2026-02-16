@@ -1,0 +1,7 @@
+{
+  "name": "Neuro Companion",
+  "description": "A gentle executive function ally designed for neurodivergent minds to transform overwhelming tasks into clear, manageable micro-wins.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
